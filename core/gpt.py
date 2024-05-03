@@ -2,7 +2,7 @@ import openai
 
 class GPT:
   def __init__(self):
-    self.key="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"
+    self.key="OPEN AI KEY"
 
   #embedding
   def embedd_text(self,text):
