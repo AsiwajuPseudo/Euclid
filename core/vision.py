@@ -5,7 +5,7 @@ import requests
 
 class Vision:
   def __init__(self):
-    self.key="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"
+    self.key="OPEN AI KEY"
     self.system = """
     You are an vision AI system and you are required to assist the user in what they ask and return your answer in json format.
     The structure of your answer should be as follows:
